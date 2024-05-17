@@ -124,8 +124,8 @@ html
 html, body
 {
     font-size: /* @@ BaseFontSizeNarrow */ 16px /* BaseFontSizeNarrow @@ */;
-    line-height: 1.6;
-    padding: 0;
+    line-height: 1.7;
+    padding: 20px;
     margin: 0;
 }
 
@@ -141,7 +141,7 @@ html,
             'Segoe UI', 'Helvetica Neue', 'HelveticaNeue', 'Helvetica', 'Arial'
         /* LatinSansFont @@ */,
         /* @@ ChSimpSansFontLow */
-            'Microsoft YaHei', 'PingFang SC', 'PingFangSC'
+            'PingFang SC', 'PingFangSC', 'Microsoft YaHei' 
         /* ChSimpSansFontLow @@ */,
         /* @@ EmojiFont */
             'Segoe UI Emoji', 'Segoe UI Symbol', 'Apple Color Emoji', 'AppleColorEmoji'
@@ -160,7 +160,7 @@ html:lang(zh),
             'Segoe UI', 'Helvetica Neue', 'HelveticaNeue', 'Helvetica', 'Arial'
         /* LatinSansFont @@ */,
         /* @@ ChSimpSansFontLow */
-            'Microsoft YaHei', 'PingFang SC', 'PingFangSC'
+            'PingFang SC', 'PingFangSC', 'Microsoft YaHei'
         /* ChSimpSansFontLow @@ */,
         /* @@ EmojiFont */
             'Segoe UI Emoji', 'Segoe UI Symbol', 'Apple Color Emoji', 'AppleColorEmoji'
@@ -418,31 +418,6 @@ break-before: avoid;
 .gl-entry a.gl-suppress-deco::after,
 .gl-entry .gl-suppress-deco a::before,
 .gl-entry .gl-suppress-deco a::after,
-footer a::before,
-footer a::after
-{
-    content: '' !important;
-}
-
-footer
-{
-    clear: both;
-    text-align: center;
-}
-footer.gl-footer-far
-{
-    margin-top: 2em;
-    margin-bottom: 2em;
-}
-footer.gl-footer-near
-{
-    margin-top: 0;
-    margin-bottom: 2em;
-}
-footer > *:not(.gl-preserved-dummy-class)
-{
-    margin: 0.5em 0.5em 0 0.5em;
-}
 
 .gl-image-box
 {
@@ -694,10 +669,6 @@ body.gl-targeted-animation *:target
     .gl-entry abbr.obscure-abbr[title]:lang(zh)::after
     {
         content: "（" attr(title) "）";
-    }
-    footer
-    {
-        margin-bottom: 0 !important;
     }
     .gl-entry a[href]::after
     {

@@ -68,11 +68,6 @@ body, .gl-page-background { background: #FAFAFA; }
 .gl-entry a[href]:hover { color: #0078d7; }
 .gl-entry a[href]:active { color: #004275; }
 
-.gl-entry footer
-{
-    color: #555;
-}
-
 .gl-entry .gl-light-theme-forbidden { display: none !important; }
 
 @media print
@@ -105,8 +100,4 @@ body, .gl-page-background { background: #FAFAFA; }
     .gl-entry figcaption a[href][href]:hover { color: #222; }
     .gl-entry figcaption a[href][href]:visited { color: #222; }
     .gl-entry figcaption a[href][href]:active { color: #222; }
-    footer a[href][href]:link { color: #222; }
-    footer a[href][href]:hover { color: #222; }
-    footer a[href][href]:visited { color: #222; }
-    footer a[href][href]:active { color: #222; }
 }
