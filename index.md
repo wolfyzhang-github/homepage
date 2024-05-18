@@ -24,7 +24,7 @@
 
 My Chinese name is spelled in Pinyin as Guohui Zhang. My online ID is wolfyzhang, and occasionally, I use ghzhang as my ID.
 
-Currently, I am focusing on the application layer development and commercial implementation of large language models, specifically in the field of Business Intelligence (BI). Before this, I engaged in some embedded development and briefly explored computer architecture. In addition, I have a basic understanding of communication systems. More information can be found by visiting [my knowledge base](https://kb.wolfyzhang.com/konwledge-base).
+Currently, I am focusing on the application layer development and commercial implementation of large language models, specifically in the field of Business Intelligence (BI). Before this, I engaged in some embedded development and briefly explored computer architecture. In addition, I have a basic understanding of communication systems. More information can be found by visiting [my knowledge base](https://kb.wolfyzhang.com/).
 
 I graduated in June 2023 with a bachelor's degree in Electronic Information Science and Technology from University of Jinan. I have also interned at Microsoft (China) for a few months.
 
