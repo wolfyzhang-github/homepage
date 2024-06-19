@@ -16,7 +16,7 @@
 
 我的网络 ID 是 wolfyzhang，偶尔会使用 ghzhang 这个 ID。
 
-我目前聚焦于大语言模型的应用层开发和商业落地，具体业务方向是商业智能（Business Intelligence, BI），在此之前，我做过一些嵌入式开发，看过一点计算机系统结构内容。除此之外，我对通信系统有基本的了解。可访问 [我的知识库](https://kb.wolfyzhang.com/) 查看更多信息。
+我目前聚焦于大语言模型的应用层开发和商业落地，在此之前，我做过一些嵌入式开发，看过一点计算机系统结构内容。除此之外，我对通信系统有基本的了解。可访问 [我的知识库](https://kb.wolfyzhang.com/) 查看更多信息。
 
 我在 2023 年 6 月本科毕业于济南大学电子信息科学与技术专业，在微软（中国）实习过几个月。
 
@@ -24,7 +24,7 @@
 
 My Chinese name is spelled in Pinyin as Guohui Zhang. My online ID is wolfyzhang, and occasionally, I use ghzhang as my ID.
 
-Currently, I am focusing on the application layer development and commercial implementation of large language models, specifically in the field of Business Intelligence (BI). Before this, I engaged in some embedded development and briefly explored computer architecture. In addition, I have a basic understanding of communication systems. More information can be found by visiting [my knowledge base](https://kb.wolfyzhang.com/).
+Currently, I am focusing on the application layer development and commercial implementation of large language models, before this, I engaged in some embedded development and briefly explored computer architecture. In addition, I have a basic understanding of communication systems. More information can be found by visiting [my knowledge base](https://kb.wolfyzhang.com/).
 
 I graduated in June 2023 with a bachelor's degree in Electronic Information Science and Technology from University of Jinan. I have also interned at Microsoft (China) for a few months.
 
